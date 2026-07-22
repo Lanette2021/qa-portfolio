@@ -18,4 +18,4 @@ I'm learning Software Testing and AI Testing.
 
 Become a Junior AI Tester / QA Tester.
 
-This repository will contain my projects and exercises.#
+This repository will contain my projects and exercises.
