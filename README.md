@@ -26,3 +26,15 @@ I am learning Software Testing and AI Testing with the goal of becoming a Junior
 ## Learning Journey
 
 This repository documents my progress, projects, and practical exercises as I build the skills required for a career in Quality Assurance and AI Testing.
+## 📈 Progress
+
+- ✅ GitHub Portfolio
+- ⬜ Git
+- ⬜ Postman
+- ⬜ REST API
+- ⬜ SQL
+- ⬜ Python
+- ⬜ ISTQB Foundation
+- ⬜ Test Cases
+- ⬜ Bug Reports
+- ⬜ AI Testing Portfolio
