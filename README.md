@@ -2,20 +2,27 @@
 
 Hi! My name is Liliia.
 
-I'm learning Software Testing and AI Testing.
+I am learning Software Testing and AI Testing with the goal of becoming a Junior AI Tester / QA Tester.
 
-## Skills I'm currently learning
+## Skills
 
 - Git & GitHub
 - Postman
 - REST API
 - SQL
 - Python
-- ISTQB Foundation
+- Software Testing
 - AI Testing
 
-## Goal
+## Repository Structure
 
-Become a Junior AI Tester / QA Tester.
+- API Testing
+- SQL
+- Python
+- Test Cases
+- Bug Reports
+- AI Testing
 
-This repository will contain my projects and exercises.
+## Learning Journey
+
+This repository documents my progress, projects, and practical exercises as I build the skills required for a career in Quality Assurance and AI Testing.
